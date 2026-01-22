@@ -338,7 +338,7 @@ local function CreateGUI()
     Title.Position = UDim2.new(0, 0, 0, 10)
     Title.Size = UDim2.new(1, 0, 0, 25)
     Title.Font = Enum.Font.GothamBold
-    Title.Text = "NORRYS's"
+    Title.Text = "Namz"
     Title.TextColor3 = Color3.fromRGB(255, 255, 255)
     Title.TextSize = 16
     Title.TextStrokeTransparency = 0.8
